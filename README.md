@@ -3,7 +3,7 @@ Exploratory data analysis project using Python and Pandas to investigate how dem
 adult-income-analysis/
 │
 ├── data/
-│   ├── raw/[Uploading adult.data…]()
+│   ├── raw/
 
 
 │   └── processed/
